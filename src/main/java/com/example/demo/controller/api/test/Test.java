@@ -17,7 +17,7 @@ public class Test {
     public String servertest() {
           String name = "name";
           String yellow = servicetest.name();
-          return "hi  ki new hello koushik"+name+"  "+yellow;
+          return "hi "+name+"  "+yellow;
     }
     
 
